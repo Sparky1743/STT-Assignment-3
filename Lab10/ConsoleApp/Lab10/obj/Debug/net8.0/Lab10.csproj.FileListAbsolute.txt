@@ -1,0 +1,14 @@
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\bin\Debug\net8.0\Lab10.exe
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\bin\Debug\net8.0\Lab10.deps.json
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\bin\Debug\net8.0\Lab10.runtimeconfig.json
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\bin\Debug\net8.0\Lab10.dll
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\bin\Debug\net8.0\Lab10.pdb
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfoInputs.cache
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfo.cs
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.dll
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\refint\Lab10.dll
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.pdb
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\Lab10.genruntimeconfig.cache
+C:\Users\birud\OneDrive - iitgn.ac.in\github\STT-Labs\Assignment-3\Lab10\ConsoleApp\Lab10\obj\Debug\net8.0\ref\Lab10.dll

@@ -1,0 +1,317 @@
+{
+    "__main__": {
+        "bacon": 0,
+        "imports": [
+            "requests",
+            "requests.__version__",
+            "requests._internal_utils",
+            "requests.adapters",
+            "requests.api",
+            "requests.auth",
+            "requests.certs",
+            "requests.compat",
+            "requests.cookies",
+            "requests.exceptions",
+            "requests.help",
+            "requests.hooks",
+            "requests.models",
+            "requests.packages",
+            "requests.sessions",
+            "requests.status_codes",
+            "requests.structures",
+            "requests.utils"
+        ],
+        "name": "__main__",
+        "path": null
+    },
+    "requests": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.api",
+            "requests.help",
+            "requests.utils"
+        ],
+        "imports": [
+            "requests",
+            "requests.__version__",
+            "requests.api",
+            "requests.exceptions",
+            "requests.models",
+            "requests.packages",
+            "requests.sessions",
+            "requests.status_codes",
+            "requests.utils"
+        ],
+        "name": "requests",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/__init__.py"
+    },
+    "requests.__version__": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.help",
+            "requests.utils"
+        ],
+        "name": "requests.__version__",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/__version__.py"
+    },
+    "requests._internal_utils": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.auth",
+            "requests.cookies",
+            "requests.models",
+            "requests.sessions",
+            "requests.utils"
+        ],
+        "imports": [
+            "requests.compat"
+        ],
+        "name": "requests._internal_utils",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/_internal_utils.py"
+    },
+    "requests.adapters": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests.auth",
+            "requests.compat",
+            "requests.cookies",
+            "requests.exceptions",
+            "requests.models",
+            "requests.structures",
+            "requests.utils"
+        ],
+        "name": "requests.adapters",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/adapters.py"
+    },
+    "requests.api": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests"
+        ],
+        "imports": [
+            "requests",
+            "requests.sessions"
+        ],
+        "name": "requests.api",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/api.py"
+    },
+    "requests.auth": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.adapters",
+            "requests.models",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests._internal_utils",
+            "requests.compat",
+            "requests.cookies",
+            "requests.utils"
+        ],
+        "name": "requests.auth",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/auth.py"
+    },
+    "requests.certs": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.utils"
+        ],
+        "name": "requests.certs",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/certs.py"
+    },
+    "requests.compat": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests._internal_utils",
+            "requests.adapters",
+            "requests.auth",
+            "requests.cookies",
+            "requests.exceptions",
+            "requests.models",
+            "requests.packages",
+            "requests.sessions",
+            "requests.structures",
+            "requests.utils"
+        ],
+        "name": "requests.compat",
+        "path": null
+    },
+    "requests.cookies": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.adapters",
+            "requests.auth",
+            "requests.models",
+            "requests.sessions",
+            "requests.utils"
+        ],
+        "imports": [
+            "requests._internal_utils",
+            "requests.compat"
+        ],
+        "name": "requests.cookies",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/cookies.py"
+    },
+    "requests.exceptions": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.adapters",
+            "requests.models",
+            "requests.sessions",
+            "requests.utils"
+        ],
+        "imports": [
+            "requests.compat"
+        ],
+        "name": "requests.exceptions",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/exceptions.py"
+    },
+    "requests.help": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "requests",
+            "requests.__version__"
+        ],
+        "name": "requests.help",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/help.py"
+    },
+    "requests.hooks": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.models",
+            "requests.sessions"
+        ],
+        "name": "requests.hooks",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/hooks.py"
+    },
+    "requests.models": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.adapters",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests._internal_utils",
+            "requests.auth",
+            "requests.compat",
+            "requests.cookies",
+            "requests.exceptions",
+            "requests.hooks",
+            "requests.status_codes",
+            "requests.structures",
+            "requests.utils"
+        ],
+        "name": "requests.models",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/models.py"
+    },
+    "requests.packages": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests"
+        ],
+        "imports": [
+            "requests.compat"
+        ],
+        "name": "requests.packages",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/packages.py"
+    },
+    "requests.sessions": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.api"
+        ],
+        "imports": [
+            "requests._internal_utils",
+            "requests.adapters",
+            "requests.auth",
+            "requests.compat",
+            "requests.cookies",
+            "requests.exceptions",
+            "requests.hooks",
+            "requests.models",
+            "requests.status_codes",
+            "requests.structures",
+            "requests.utils"
+        ],
+        "name": "requests.sessions",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/sessions.py"
+    },
+    "requests.status_codes": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.models",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests.structures"
+        ],
+        "name": "requests.status_codes",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/status_codes.py"
+    },
+    "requests.structures": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests.adapters",
+            "requests.models",
+            "requests.sessions",
+            "requests.status_codes",
+            "requests.utils"
+        ],
+        "imports": [
+            "requests.compat"
+        ],
+        "name": "requests.structures",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/structures.py"
+    },
+    "requests.utils": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "requests",
+            "requests.adapters",
+            "requests.auth",
+            "requests.models",
+            "requests.sessions"
+        ],
+        "imports": [
+            "requests",
+            "requests.__version__",
+            "requests._internal_utils",
+            "requests.certs",
+            "requests.compat",
+            "requests.cookies",
+            "requests.exceptions",
+            "requests.structures"
+        ],
+        "name": "requests.utils",
+        "path": "/home/birud_ubuntu/STT-Labs/Assignment-3/requests/src/requests/utils.py"
+    }
+}

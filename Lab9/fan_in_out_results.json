@@ -1,0 +1,78 @@
+{
+    "__main__": {
+        "fan_in": 0,
+        "fan_out": 18
+    },
+    "requests": {
+        "fan_in": 5,
+        "fan_out": 9
+    },
+    "requests.__version__": {
+        "fan_in": 4,
+        "fan_out": 0
+    },
+    "requests._internal_utils": {
+        "fan_in": 6,
+        "fan_out": 1
+    },
+    "requests.adapters": {
+        "fan_in": 2,
+        "fan_out": 7
+    },
+    "requests.api": {
+        "fan_in": 2,
+        "fan_out": 2
+    },
+    "requests.auth": {
+        "fan_in": 4,
+        "fan_out": 4
+    },
+    "requests.certs": {
+        "fan_in": 2,
+        "fan_out": 0
+    },
+    "requests.compat": {
+        "fan_in": 11,
+        "fan_out": 0
+    },
+    "requests.cookies": {
+        "fan_in": 6,
+        "fan_out": 2
+    },
+    "requests.exceptions": {
+        "fan_in": 6,
+        "fan_out": 1
+    },
+    "requests.help": {
+        "fan_in": 1,
+        "fan_out": 2
+    },
+    "requests.hooks": {
+        "fan_in": 3,
+        "fan_out": 0
+    },
+    "requests.models": {
+        "fan_in": 4,
+        "fan_out": 9
+    },
+    "requests.packages": {
+        "fan_in": 2,
+        "fan_out": 1
+    },
+    "requests.sessions": {
+        "fan_in": 3,
+        "fan_out": 11
+    },
+    "requests.status_codes": {
+        "fan_in": 4,
+        "fan_out": 1
+    },
+    "requests.structures": {
+        "fan_in": 6,
+        "fan_out": 1
+    },
+    "requests.utils": {
+        "fan_in": 6,
+        "fan_out": 8
+    }
+}

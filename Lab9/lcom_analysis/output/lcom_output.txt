@@ -1,0 +1,321 @@
+
+📊 High LCOM Class Analysis 📊
+
+Class: DateFormatUtils
+  - LCOM1: 153.0
+  - LCOM5: 1.0431372549019609
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: SystemUtils
+  - LCOM1: 253.0
+  - LCOM5: 1.0425454545454544
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: Pair
+  - LCOM1: 120.0
+  - LCOM5: 1.0333333333333334
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: CharUtils
+  - LCOM1: 276.0
+  - LCOM5: 1.0260869565217392
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: StandardToStringStyle
+  - LCOM1: 820.0
+  - LCOM5: 1.025
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: JsonToStringStyle
+  - LCOM1: 253.0
+  - LCOM5: 1.0227272727272727
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: NumberUtils
+  - LCOM1: 2211.0
+  - LCOM5: 1.0122655122655122
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: StringEscapeUtils
+  - LCOM1: 171.0
+  - LCOM5: 1.0046296296296295
+  ❗ High fragmentation: The class has methods that do not share fields.
+  🔄 Consider functional decomposition: This class might be doing too much.
+--------------------------------------------------
+Class: MethodUtils
+  - LCOM1: 465.0
+  - LCOM5: 1.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: DateUtils
+  - LCOM1: 2013.0
+  - LCOM5: 1.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: SystemProperties
+  - LCOM1: 19701.0
+  - LCOM5: 0.9999198332531666
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Validate
+  - LCOM1: 1431.0
+  - LCOM5: 0.9962264150943396
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ClassUtils
+  - LCOM1: 2077.0
+  - LCOM5: 0.9928977272727272
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ArrayUtils
+  - LCOM1: 70500.0
+  - LCOM5: 0.9915555555555556
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ToStringStyle
+  - LCOM1: 10703.0
+  - LCOM5: 0.9886008457437028
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: EnumUtils
+  - LCOM1: 231.0
+  - LCOM5: 0.988095238095238
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ExceptionUtils
+  - LCOM1: 861.0
+  - LCOM5: 0.983739837398374
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: LocaleUtils
+  - LCOM1: 120.0
+  - LCOM5: 0.9809523809523808
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ObjectUtils
+  - LCOM1: 1378.0
+  - LCOM5: 0.9807692307692308
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: FastDatePrinter
+  - LCOM1: 4094.0
+  - LCOM5: 0.9802005012531328
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: TypeUtils
+  - LCOM1: 3033.0
+  - LCOM5: 0.9786324786324786
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Conversion
+  - LCOM1: 903.0
+  - LCOM5: 0.9761904761904762
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Strings
+  - LCOM1: 1000.0
+  - LCOM5: 0.974074074074074
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: FastDateParser
+  - LCOM1: 1646.0
+  - LCOM5: 0.973702664796634
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: RandomStringUtils
+  - LCOM1: 885.0
+  - LCOM5: 0.9681818181818184
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: StrMatcher
+  - LCOM1: 327.0
+  - LCOM5: 0.967948717948718
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: StringUtils
+  - LCOM1: 29161.0
+  - LCOM5: 0.9610995850622408
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: StrSubstitutor
+  - LCOM1: 1446.0
+  - LCOM5: 0.9562289562289562
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: StrTokenizer
+  - LCOM1: 1906.0
+  - LCOM5: 0.9552669552669552
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: RandomUtils
+  - LCOM1: 370.0
+  - LCOM5: 0.9523809523809524
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Fraction
+  - LCOM1: 332.0
+  - LCOM5: 0.9494949494949496
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: EventCountCircuitBreaker
+  - LCOM1: 411.0
+  - LCOM5: 0.9439655172413792
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ThreadUtils
+  - LCOM1: 579.0
+  - LCOM5: 0.9411764705882352
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: TimedSemaphore
+  - LCOM1: 154.0
+  - LCOM5: 0.9401709401709402
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: StopWatch
+  - LCOM1: 1193.0
+  - LCOM5: 0.93
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: BackgroundInitializer
+  - LCOM1: 196.0
+  - LCOM5: 0.93
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ArchUtils
+  - LCOM1: 105.0
+  - LCOM5: 0.9285714285714286
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: DiffBuilder
+  - LCOM1: 422.0
+  - LCOM5: 0.9185185185185186
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ReflectionToStringBuilder
+  - LCOM1: 553.0
+  - LCOM5: 0.9166666666666669
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: BasicThreadFactory
+  - LCOM1: 140.0
+  - LCOM5: 0.914141414141414
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: BooleanUtils
+  - LCOM1: 1081.0
+  - LCOM5: 0.903726708074534
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: FastDateFormat
+  - LCOM1: 680.0
+  - LCOM5: 0.902439024390244
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ExtendedMessageFormat
+  - LCOM1: 192.0
+  - LCOM5: 0.9
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: EventListenerSupport
+  - LCOM1: 146.0
+  - LCOM5: 0.8999999999999999
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: DurationFormatUtils
+  - LCOM1: 160.0
+  - LCOM5: 0.8982456140350877
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: MemberUtils
+  - LCOM1: 172.0
+  - LCOM5: 0.8947368421052632
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: StrBuilder
+  - LCOM1: 11109.0
+  - LCOM5: 0.8890532544378699
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Streams
+  - LCOM1: 679.0
+  - LCOM5: 0.8714285714285714
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: EqualsBuilder
+  - LCOM1: 506.0
+  - LCOM5: 0.8536585365853658
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Streams
+  - LCOM1: 163.0
+  - LCOM5: 0.8452380952380952
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Range
+  - LCOM1: 192.0
+  - LCOM5: 0.7716049382716049
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ConcurrentUtils
+  - LCOM1: 143.0
+  - LCOM5: 0.7647058823529411
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: BitField
+  - LCOM1: 130.0
+  - LCOM5: 0.7647058823529411
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: HashCodeBuilder
+  - LCOM1: 435.0
+  - LCOM5: 0.7611111111111111
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ToStringBuilder
+  - LCOM1: 346.0
+  - LCOM5: 0.5483870967741935
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: ComparableUtils
+  - LCOM1: 112.0
+  - LCOM5: 0.3684210526315789
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: CompareToBuilder
+  - LCOM1: 234.0
+  - LCOM5: 0.3
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: RegExUtils
+  - LCOM1: 210.0
+  - LCOM5: 0.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Failable
+  - LCOM1: 561.0
+  - LCOM5: 0.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: Functions
+  - LCOM1: 561.0
+  - LCOM5: 0.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: WordUtils
+  - LCOM1: 105.0
+  - LCOM5: 0.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------
+Class: FieldUtils
+  - LCOM1: 595.0
+  - LCOM5: 0.0
+  ✅ Acceptable cohesion: The class might not require decomposition.
+--------------------------------------------------

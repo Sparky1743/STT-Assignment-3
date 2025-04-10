@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|c:\\users\\birud\\onedrive - iitgn.ac.in\\github\\stt-labs\\assignment-3\\lab10\\consoleapp\\lab10\\fnloops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|solutionrelative:lab10\\fnloops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|c:\\users\\birud\\onedrive - iitgn.ac.in\\github\\stt-labs\\assignment-3\\lab10\\consoleapp\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|c:\\users\\birud\\onedrive - iitgn.ac.in\\github\\stt-labs\\assignment-3\\lab10\\consoleapp\\lab10\\basicsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|solutionrelative:lab10\\basicsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|c:\\users\\birud\\onedrive - iitgn.ac.in\\github\\stt-labs\\assignment-3\\lab10\\consoleapp\\lab10\\oops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B9D0C-23D2-4950-8F84-46E59B7B87B3}|Lab10\\Lab10.csproj|solutionrelative:lab10\\oops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oops.cs",
+              "DocumentMoniker": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\oops.cs",
+              "RelativeDocumentMoniker": "Lab10\\oops.cs",
+              "ToolTip": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\oops.cs",
+              "RelativeToolTip": "Lab10\\oops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:52:10.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fnLoops.cs",
+              "DocumentMoniker": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\fnLoops.cs",
+              "RelativeDocumentMoniker": "Lab10\\fnLoops.cs",
+              "ToolTip": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\fnLoops.cs",
+              "RelativeToolTip": "Lab10\\fnLoops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:04:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basicSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\basicSyntax.cs",
+              "RelativeDocumentMoniker": "Lab10\\basicSyntax.cs",
+              "ToolTip": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\basicSyntax.cs",
+              "RelativeToolTip": "Lab10\\basicSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:06:14.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab10\\Program.cs",
+              "ToolTip": "C:\\Users\\birud\\OneDrive - iitgn.ac.in\\github\\STT-Labs\\Assignment-3\\Lab10\\ConsoleApp\\Lab10\\Program.cs",
+              "RelativeToolTip": "Lab10\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:28:07.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
